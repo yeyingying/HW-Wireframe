@@ -1,5 +1,14 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    font-size: 18px;
+}
+
+
+
 #header{
-    background-color: lightpink;
+    background-color: #ebebeb;
     height: 35px;
 text-align: center;
 margin-left: 100px;
@@ -9,7 +18,7 @@ padding: 2em;
 }
 
 #nav{
-    background-color: lavender;
+    background-color:#ebebeb;
     height: 35px;
 text-align: center;
 margin-left: 100px;
@@ -28,18 +37,18 @@ grid-template-columns: 60% 38%;
 Justify-content: space-between;
 }
 
-.section {background-color: lightblue;
+.section {background-color: #ebebeb;
     padding-top: 50px;
     padding-left:30px;
     padding-right:30px;
     padding-bottom: 10px;
    }
     
-#aside {background-color:rgb(193, 243, 201);
+#aside {background-color:#ebebeb;
     }
 
 .footer{
-    background-color: lightsalmon;
+    background-color:#ebebeb;
     height: 35px;
 text-align: center;
 margin-left: 100px;
